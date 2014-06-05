@@ -31,6 +31,20 @@ August after presentation of my thesis.
 
 ## Key Skills
 
+ __Programming Languages:__ Java, JavaScript, JQuery, PERL, C, C++, ASP.NET MVC4, Ruby on Rails, C#, Python, Assembly, Pascal, XML, CSS, HTML
+ __Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
+
+ + Good Web Programming skills with all layers, experienced in Web 2,0 Web services, Maven, J2EE, Vaadin, JSF,  JSP,  Prime Faces, Ajax, RSS.
+ + Knowledge of Agile programming methods (OpenUP, UPEDU, Scrum and Kanban) and with UML diagrams.
+ + Test Driven Development, Junit, Xunit, Unit Testing, Environment Testing, System Testing
+ + Java Swing, Applet, JavaFX, Scene Builder
+ + MySQL Database Management Systems, SQL, JPA with Hibernate, EclipseLink, Apache POI.
+ + Image Processing with OpenCV
+ + Android Application Development
+ + Apace Tomcat Server 6,7,8 , TomEE, Glassfish
+ + Socket Programming, Good knowledge of Network Programming
+ + Eclipse, Netbeans, IntelliJ, Visual Studio
+
 
 
 
