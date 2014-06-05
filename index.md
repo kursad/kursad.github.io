@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welome to Kursad's page !
-tagline: Supporting tagline
+tagline: This is my newly created portfolio
 ---
 {% include JB/setup %}
 
