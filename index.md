@@ -22,12 +22,8 @@ The theme should reference these variables whenever needed.
 ## Sample Projects
 
 Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    &raquo; <a href="publicabstract.blogspot.se">My Blog</a></li>
-  {% endfor %}
-</ul>
+  <a href="publicabstract.blogspot.se">My Blog</a></li>
+  
 
 
 
