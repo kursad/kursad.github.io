@@ -44,7 +44,7 @@ August after presentation of my thesis.
 
  __International Software Engineering Project (Team Leader)__
  
-  For the course Software Engineering Process, Linnaeus University collaborated with L`Tur
+   For the course Software Engineering Process, Linnaeus University collaborated with L`Tur
 
 
 
