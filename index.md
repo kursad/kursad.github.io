@@ -28,7 +28,13 @@ August after presentation of my thesis.
  June   2007 Anadolu University Pilotaj, Turkey
  
  June   2006 Turkish Air Force Academy, Turkey 
- 
+
+## Key Skills
+
+
+
+
+
 
 
   
