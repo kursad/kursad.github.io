@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welome to Kursad's page 
+title: Bahadir Kursad Agören 
 tagline: This is my newly created portfolio
 ---
 {% include JB/setup %}
@@ -19,15 +19,11 @@ August after presentation of my thesis.
 
 ## Education
 
- August 2014 Software Engineering, Linnaeus University, Sweden
-
- June   2013 Computer and Information Systems Educetion, Black Sea Technical University, Turkey
- 
- June   2009 Information Systems Engneering Atilim University, Turkey
- 
- June   2007 Anadolu University Pilotaj, Turkey
- 
- June   2006 Turkish Air Force Academy, Turkey 
+ + August 2014 Software Engineering, Linnaeus University, Sweden
+ + June   2013 Computer and Information Systems Educetion, Black Sea Technical University, Turkey
+ + June   2009 Information Systems Engneering Atilim University, Turkey
+ + June   2007 Anadolu University Pilotaj, Turkey
+ + June   2006 Turkish Air Force Academy, Turkey 
 
 ## Key Skills
 
