@@ -16,11 +16,8 @@ exchange student, after I decided to continue my studies here. I am finishing my
 August after presentation of my thesis.
 
 
+
 ## Education
-
-## Key Technical Skills
-
-##Example Projects
 
 
 
