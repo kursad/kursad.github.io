@@ -17,7 +17,6 @@ exchange student, after I decided to continue my studies here. I am finishing my
 August after presentation of my thesis.
 
 
-
 The theme should reference these variables whenever needed.
     
 ## Sample Projects
