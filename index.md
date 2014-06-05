@@ -41,7 +41,7 @@ August after presentation of my thesis.
 
 ## Projects
 
- __  International Software Engineering Project (Team Leader)__
+ __International Software Engineering Project (Team Leader)__
 
  For the course Software Engineering Process, Linnaeus University collaborated with L`Tur (which is one of the biggest travel agency in Germany)for the development of their online booking system. Our team is selected for the duty and I have been assigned as Team Leader. I finalized the course with the grade of A. 
  
