@@ -5,8 +5,6 @@ tagline: This is my newly created portfolio
 ---
 {% include JB/setup %}
 
-Read [My Blog Spot](http://publicabstract.plogspot.se)
-
 
 
 ## About Me
