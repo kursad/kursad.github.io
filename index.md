@@ -20,11 +20,9 @@ August after presentation of my thesis.
 ## Education
 
  + August 2014 Software Engineering, Linnaeus University, Sweden
- + June   2013 Computer and Information Systems Educetion, Black Sea Technical University, Turkey
+ + June   2013 Computer and Information Systems Education, Black Sea Technical University, Turkey
  + June   2009 Information Systems Engneering Atilim University, Turkey
- + June   2007 Anadolu University Pilotaj, Turkey
- + June   2006 Turkish Air Force Academy, Turkey 
-
+  
 ## Key Skills
 
  __Programming Languages:__ Java, JavaScript, JQuery, PERL, C, C++, ASP.NET MVC4, Ruby on Rails, C#, Python, Assembly, Pascal, XML, CSS, HTML, XHTML
@@ -40,6 +38,18 @@ August after presentation of my thesis.
  + Apace Tomcat Server 6,7,8 , TomEE, Glassfish
  + Socket Programming, Good knowledge of Network Programming
  + Eclipse, Netbeans, IntelliJ, Visual Studio
+
+## Projects
+
+ __  International Software Engineering Project (Team Leader)__
+
+ For the course Software Engineering Process, Linnaeus University collaborated with L`Tur (which is one of the biggest travel agency in Germany)for the development of their online booking system. Our team is selected for the duty and I have been assigned as Team Leader. I finalized the course with the grade of A. 
+ 
+ We built a web application which provides a web service from flights to hotel reservations. We used Open UP Agile process methodology. We also designed a user friendly website for L’Tur. The company has changed some features and using the website (www.ltur.com)
+
+ __Used Technology:__ JavaEE, Netbeans, Tomcat7, MySQL, Java JPA, Hibernate, JSF, SOAP, Servlets, Java, Scripts, JQuery, HTML, XHTML, CSS, PrimeFaces Framework
+
+
 
 
 
