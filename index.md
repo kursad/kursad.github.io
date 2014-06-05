@@ -31,7 +31,7 @@ August after presentation of my thesis.
 
 ## Key Skills
 
- __Programming Languages:__ Java, JavaScript, JQuery, PERL, C, C++, ASP.NET MVC4, Ruby on Rails, C#, Python, Assembly, Pascal, XML, CSS, HTML
+ __Programming Languages:__ Java, JavaScript, JQuery, PERL, C, C++, ASP.NET MVC4, Ruby on Rails, C#, Python, Assembly, Pascal, XML, CSS, HTML   
  __Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
 
  + Good Web Programming skills with all layers, experienced in Web 2,0 Web services, Maven, J2EE, Vaadin, JSF,  JSP,  Prime Faces, Ajax, RSS.
