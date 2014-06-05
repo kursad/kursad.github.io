@@ -19,6 +19,15 @@ August after presentation of my thesis.
 
 ## Education
 
+August 2014 Software Engineering (3Years) Linnaeus University, Sweden 
+
+June   2013 Computer Science (5Years) Black Sea Technical University, Turkey
+
+June   2009 Information Systems Engneering Atilim University, Turkey
+
+June   2007 Anadolu University Pilotaj, Turkey
+
+June   2006 Turkish Air Force Academy, Turkey 
 
 
 
