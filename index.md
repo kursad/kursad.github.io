@@ -5,9 +5,9 @@ tagline: This is my newly created portfolio
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Read [My Blog Spot](http://publicabstract.plogspot.se)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+
 
 ## About Me
 
@@ -17,12 +17,7 @@ exchange student, after I decided to continue my studies here. I am finishing my
 August after presentation of my thesis.
 
 
-The theme should reference these variables whenever needed.
-    
-## Sample Projects
 
-Here's a sample "posts list".
-  <a href="publicabstract.blogspot.se">My Blog</a></li>
   
 
 
