@@ -3,7 +3,9 @@ layout: page
 title: Welome to Kursad's page 
 tagline: This is my newly created portfolio
 ---
+{% include JB/setup %}
 
+Read [My Blog Spot](http://publicabstract.blogspot.se)
 
 
 
@@ -35,7 +37,7 @@ Command Languages: Linux, UNIX, CentOS, MS-DOS.
  Android Application Development
  Apace Tomcat Server 6,7,8 , TomEE, Glassfish
  Socket Programming, Good knowledge of Network Programming
- Eclipse, Netbeans, IntelliJ, Visual Studio
+* Eclipse, Netbeans, IntelliJ, Visual Studio
 
 ##Example Projects
 
