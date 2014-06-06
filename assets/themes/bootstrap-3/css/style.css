@@ -23,6 +23,14 @@ h1, h2, h3, h4 {
 #footer p{
  color:white;
 }
+img{
+
+   padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+   box-shadow: 10px 10px 5px #888888;
+   right: 5px;
+}
 
 /* posts index */
 .post > h3.title {
