@@ -47,7 +47,6 @@ __Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
 For the course Software Engineering Process, Linnaeus University collaborated with LTur (which is one of the biggest travel agency in Germany 
 for the development of their online booking system. Our team is selected for the duty and I have been assigned as Team Leader. I 
 finalized the course with the grade of A. 
-
 We built a web application which provides a web service from flights to hotel reservations. We used Open UP Agile process methodology. We also
 designed a user friendly website for LTur. The company has changed some features and using the website (www.ltur.com) 
 
@@ -65,3 +64,12 @@ For the course Computer Technology II in Linnaeus University, I developed a lice
 
 __Used Technology:__ C, C++, Python, OpenCV libraries, Image Processing Techniques
 
++ __Atmel AVR 500&600 microchip programming with assembly__
+
+For the course Computer Technology in Linnaeus University, I programmed message sending application with AVR 500 and 600. From one microchip card to another I was able to send, receive and understand the text messages as a chat program. This was one of the beneficial projects to learn assembly low level language and electronic microcontroller programming.
+
+__Used Tools:__ Atmel AVR 500, 600, AVR Studio, Assembly
+
++ __Bachelor Thesis__
+
+I am analyzing the Intel Xeon Phi many cored co-processor with several parallel benchmarks to measure its performance and trying to optimize the parallel coding of the cores to get faster results from it. Xeon Phi is used by biggest systems in the world now and I am co-operating with Intel during my work period. After my research I will attend to the IEEE Computer Performance Conference in USA with my results at the end of 2014
