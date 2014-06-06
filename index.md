@@ -71,6 +71,7 @@ For the course Computer Technology in Linnaeus University, I programmed message 
 __Used Tools:__ Atmel AVR 500, 600, AVR Studio, Assembly
 
 + __Java Applications__
+
 During my education life I developed tens of java applications, from games, parsers, basic compilers
 to operating system synchronizing applications. I also have good knowledge of java GUI programming
 
