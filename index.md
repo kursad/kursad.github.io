@@ -70,6 +70,22 @@ For the course Computer Technology in Linnaeus University, I programmed message 
 
 __Used Tools:__ Atmel AVR 500, 600, AVR Studio, Assembly
 
++__Java Applications__
+During my education life I developed tens of java applications, from games, parsers, basic compilers
+to operating system synchronizing applications. I also have good knowledge of java GUI programming
+
++ __Testing__
+
+For the course Software Testing, Linnaeus University, I tested Google Chrome Frameworks and
+Layouts, found some bugs, reported and provide solution to Google. Course taught me Test Driven
+Development, Unit Testing, Environment Testing, System Testing, Automated Testing, Black White Box
+testing etc.
+
++ __Android__
+
+From weather application to alarms, calendars, simple games I developed lots of application, so I quite
+have knowledge of Android Application
+
 + __Bachelor Thesis__
 
 I am analyzing the Intel Xeon Phi many cored co-processor with several parallel benchmarks to measure its performance and trying to optimize the parallel coding of the cores to get faster results from it. Xeon Phi is used by biggest systems in the world now and I am co-operating with Intel during my work period. After my research I will attend to the IEEE Computer Performance Conference in USA with my results at the end of 2014
