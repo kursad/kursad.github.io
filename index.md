@@ -7,6 +7,7 @@ tagline: This is my newly created portfolio
 
 Read [My Blog Spot](http://publicabstract.blogspot.se)
 
+[My helpful screenshot]({{ site.url }}/assets/foto.jpg)
 
 ## About Me
 
