@@ -20,8 +20,9 @@ h1, h2, h3, h4 {
 #footer {
   background-color: #910936;
 }
-
-
+#footer p{
+ color:white;
+}
 
 /* posts index */
 .post > h3.title {
