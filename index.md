@@ -7,7 +7,7 @@ tagline: This is my newly created portfolio
 
 Read [My Blog Spot](http://publicabstract.blogspot.se)
 
-<img style="float: right" src="/assets/foto.jpg" />
+<img style="float: right" src="/assets/foto.jpg" border="5"/>
 
 ## About Me
 
