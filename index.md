@@ -50,5 +50,18 @@ finalized the course with the grade of A.
 
 We built a web application which provides a web service from flights to hotel reservations. We used Open UP Agile process methodology. We also
 designed a user friendly website for LTur. The company has changed some features and using the website (www.ltur.com) 
+
 __Used Technology:__ JavaEE, Netbeans, Tomcat7, MySQL, Java JPA, Hibernate, JSF, SOAP, Servlets, 
 Java, Scripts, JQuery, HTML, XHTML, CSS, PrimeFaces Framework
+
++ __International Software Engineering Project 2__
+
+Parasoft is a software testing company which provides clients to test their applications on their high level simulated service based solutions. We developed Data Manager to virtualize the stubs of user applications and provide to the SUT a good simulated environment. 
+__Used Technology:__ JavaEE, Eclipse WTP, Tomcat8, MySQL, JDBC, JPA, Maven, SOAP, Servlets, XML, Vaadin Java, Scripts, JQuery, HTML, XHTML, CSS, Java Swing, Apache Poi, Apache Shiro, Junit and Astah for UML design.
+
++ __License plate recognizer__
+
+For the course Computer Technology II in Linnaeus University, I developed a license plate recognizer application with OpenCV. A simple web camera detects the car and its license plate, later recognizes the characters and sends the license plate to police server to check if the car has a registered problem. (Check system was a Mock system not real one, only for testing). 
+
+__Used Technology:__ C, C++, Python, OpenCV libraries, Image Processing Techniques
+
