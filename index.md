@@ -57,7 +57,7 @@ Java, Scripts, JQuery, HTML, XHTML, CSS, PrimeFaces Framework
 + __International Software Engineering Project 2__
 
 Parasoft is a software testing company which provides clients to test their applications on their high level simulated service based solutions. We developed Data Manager to virtualize the stubs of user applications and provide to the SUT a good simulated environment. 
-__Used Technology:__ JavaEE, Eclipse WTP, Tomcat8, MySQL, JDBC, JPA, Maven, SOAP, Servlets, XML, Vaadin Java, Scripts, JQuery, HTML, XHTML, CSS, Java Swing, Apache Poi, Apache Shiro, Junit and Astah for UML design.
+__Used Technology:__ JavaEE, Eclipse WTP, Tomcat8, MySQL, JDBC, JPA, Maven, Vaadin, Java, JQuery, Apache Poi, Apache Shiro, SuperCVS, Junit and Astah for UML design.
 
 + __License plate recognizer__
 
