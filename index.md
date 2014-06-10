@@ -92,3 +92,5 @@ have knowledge of Android Application
 + __Bachelor Thesis__
 
 I am analyzing the Intel Xeon Phi many cored co-processor with several parallel benchmarks to measure its performance and trying to optimize the parallel coding of the cores to get faster results from it. Xeon Phi is used by biggest systems in the world now and I am co-operating with Intel during my work period. After my research I will attend to the IEEE Computer Performance Conference in USA with my results at the end of 2014
+
+<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fb.kursad&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
