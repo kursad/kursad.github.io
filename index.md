@@ -25,6 +25,7 @@ August after presentation of my thesis.
 + June   2013 Computer and Information Systems Education, Black Sea Technical University, Turkey
 + June   2009 Information Systems Engneering Atilim University, Turkey
   
+
 ## Key Skills
 
 __Programming Languages:__ Java, JavaScript, JQuery, PERL, C, C++, ASP.NET MVC4, Ruby on Rails, C#, Python, Assembly, Pascal, XML, CSS, HTML, XHTML
