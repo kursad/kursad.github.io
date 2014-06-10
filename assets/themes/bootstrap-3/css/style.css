@@ -16,6 +16,7 @@
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
   color: #200831;
+  font-family: "Lucida console";
 }
 #footer {
   background-color: #910936;
