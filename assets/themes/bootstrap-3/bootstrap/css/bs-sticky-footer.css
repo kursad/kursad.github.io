@@ -15,6 +15,8 @@ body {
   margin: 0 auto -30px;
   /* Pad bottom by footer height */
   padding: 0 0 30px;
+  background: url("/assets/old_moon.png");
+    background-repeat: repeat;
 }
 
 /* Set the fixed height of the footer here */
