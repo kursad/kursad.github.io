@@ -12,8 +12,7 @@ body {
   min-height: 100%;
   height: auto;
   background: url("/assets/old_moon.png");
-    background-repeat: repeat;
-
+  background-repeat: repeat;
   /* Negative indent footer by its height */
   margin: 0 auto -30px;
   /* Pad bottom by footer height */
