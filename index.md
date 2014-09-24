@@ -54,7 +54,7 @@ __Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
 > + Eclipse, Netbeans, IntelliJ, Visual Studio
 
 
-<div class="fb-share-button" data-href="http://kursad.github.io/" data-width="17"  align="right"></div>
+<div class="fb-share-button" data-href="http://kursad.github.io/" data-width="17"></div>
 
 <iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fb.kursad&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" align="right" allowTransparency="true"></iframe>
 
