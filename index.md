@@ -5,6 +5,15 @@ tagline: This is my newly created portfolio
 ---
 {% include JB/setup %}
 
+<body>
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 Read [My Blog Spot](http://publicabstract.blogspot.se)
 
 <img style="float: right" border="5" src="/assets/foto.jpg" />
@@ -44,6 +53,8 @@ __Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
 > + Eclipse, Netbeans, IntelliJ, Visual Studio
 
 
-
+<div class="fb-share-button" data-href="http://kursad.github.io/" data-width="15"></div>
 
 <iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fb.kursad&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" align="right" allowTransparency="true"></iframe>
+
+</body>
