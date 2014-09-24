@@ -5,16 +5,7 @@ tagline: This is my newly created portfolio
 ---
 {% include JB/setup %}
 
-<body>
-  <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-</body>
+
 Read [My Blog Spot](http://publicabstract.blogspot.se)
 
 <img style="float: right" border="5" src="/assets/foto.jpg" />
@@ -53,8 +44,8 @@ __Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
 > + Socket Programming, Good knowledge of Network Programming
 > + Eclipse, Netbeans, IntelliJ, Visual Studio
 
-<div style="display: inline-block">
-  <div class="fb-share-button" data-href="http://kursad.github.io/" data-width="17" vertical-align="center" height="19px"> </div>
+<div>
+  
 <a href="https://twitter.com/BKursadAgren" class="twitter-follow-button" data-show-count="false" 
 horizontal-align="right">Follow @BKursadAgren</a> 
 
