@@ -54,7 +54,7 @@ __Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
 > + Eclipse, Netbeans, IntelliJ, Visual Studio
 
 <div>
-  <spam class="fb-share-button" data-href="http://kursad.github.io/" data-width="25" ></spam>
+  <span class="fb-share-button" data-href="http://kursad.github.io/" data-width="25" height=19px></span>
 <a href="https://twitter.com/BKursadAgren" class="twitter-follow-button" data-show-count="false" 
 align="right">Follow @BKursadAgren</a>
 
