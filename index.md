@@ -15,7 +15,7 @@ tagline: This is my newly created portfolio
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 Read [My Blog Spot](http://publicabstract.blogspot.se)
-
+</body>
 <img style="float: right" border="5" src="/assets/foto.jpg" />
 
 
@@ -57,4 +57,3 @@ __Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
 
 <iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fb.kursad&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" align="right" allowTransparency="true"></iframe>
 
-</body>
