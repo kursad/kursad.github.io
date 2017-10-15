@@ -13,36 +13,41 @@ Read [My Blog Spot](http://publicabstract.blogspot.se)
 
 ## About Me
 
-My name is Bahadir Kursad Agören, I am last year student at Software Engineering Department at
-Linneuniversitetet, Växjö, Sweden. I was born and grow in Ankara, Turkey. In 2010 I came to Sweden as an
-exchange student, after I decided to continue my studies here. I am finishing my Linnaeus University degree in
-August after presentation of my thesis.
+My name is Bahadir Kursad Agören, I am an experienced Software Engineer living in Göteborg, Sweden. I was born and grew up in Ankara, Turkey. I came to Sweden as an
+exchange student, after I decided to continue my studies here. I got 2 bachelor degress; one from Turkey Black Sea Technical University and one from Sweden Linnaeus University.
 
+
+
+#Work Experience
++ June 2015 - Ongoing, Ericsson Göteborg, Consultant
++ June 2015 - Ongoing, Alten AB, Softare Engineer
++ March 2015 - June 2015, Ericsson Kista, Software Engineer
 
 
 ## Education
 
-+ August 2014 Software Engineering, Linnaeus University, Sweden
++ August 2015 Software Technology, Linnaeus University, Sweden
 + June   2013 Computer and Information Systems Education, Black Sea Technical University, Turkey
 + June   2009 Information Systems Engneering Atilim University, Turkey
   
 
 ## Key Skills
 
-__Programming Languages:__ Java, JavaScript, JQuery, PERL, C, C++, ASP.NET MVC4, Ruby on Rails, C#, Python, Assembly, Pascal, XML, CSS, HTML, XHTML
+__Programming Languages:__ C, C++, Java, C#, ASP.NET MVC4, JavaScript, Ruby on Rails, Python, Angular, Node.js, XML, CSS, HTML, XHTML
 
-__Command Languages:__ Linux, UNIX, CentOS, MS-DOS.
+__Operating Systems:__ Linux, UNIX, CentOS, MS-DOS, Windows.
 
-> + Good Web Programming skills with all layers, experienced in Web 2,0 Web services, Maven, J2EE, Vaadin, JSF,  JSP,  Prime Faces, Ajax, RSS.
-> + Knowledge of Agile programming methods (OpenUP, UPEDU, Scrum and Kanban) and with UML diagrams.
-> + Test Driven Development, Junit, Xunit, Unit Testing, Environment Testing, System Testing
+> + Full stack web development, experienced in Web 2,0 Web services, Maven, Spring, J2EE, Vaadin, JSF,  JSP,  Prime Faces, Ajax, RSS.
+> + Agile programming methods, Scrum experience, Test Driven Development
+> + Web application Security, Indentity Management, OpenId Connect, Oauth2.0, SSO, MFA
+> + Automation with Ansible
+> + Jenkins Continuous Delivery, Continuous Integration, GoCD, Apcera, Git, Gerrit
+> + Experienced testing skills, SOAP UI, Automated tests, 
 > + Java Swing, Applet, JavaFX, Scene Builder
-> + MySQL Database Management Systems, SQL, JPA with Hibernate, EclipseLink, Apache POI.
+> + MySQL, SQL, MongoDB, Cassandra, Redis, JPA, Hibernate, EclipseLink, Apache POI.
 > + Image Processing with OpenCV
-> + Android Application Development
-> + Apace Tomcat Server 6,7,8 , TomEE, Glassfish
+> + Android Mobile Application Development
 > + Socket Programming, Good knowledge of Network Programming
-> + Eclipse, Netbeans, IntelliJ, Visual Studio
 
 <div>
   
