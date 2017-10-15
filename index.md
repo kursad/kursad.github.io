@@ -18,7 +18,8 @@ exchange student, after I decided to continue my studies here. I got 2 bachelor 
 
 
 
-#Work Experience
+## Work Experience
+
 + June 2015 - Ongoing, Ericsson Göteborg, Consultant
 + June 2015 - Ongoing, Alten AB, Softare Engineer
 + March 2015 - June 2015, Ericsson Kista, Software Engineer
@@ -26,9 +27,12 @@ exchange student, after I decided to continue my studies here. I got 2 bachelor 
 
 ## Education
 
++ Ongoing Master Program, Software Technology, Linnaeus University, Sweden
 + August 2015 Software Technology, Linnaeus University, Sweden
-+ June   2013 Computer and Information Systems Education, Black Sea Technical University, Turkey
-+ June   2009 Information Systems Engneering Atilim University, Turkey
++ June 2013 Computer and Information Systems Education, Black Sea Technical University, Turkey
++ June 2009 Information Systems Engneering Atilim University, Turkey (Uncompleted)
++ June 2007 Civil Aviation Anadolu University, Turkey (Uncompleted)
++ June 2006 Air Force Academy, Turkey (Uncompleted)
   
 
 ## Key Skills
