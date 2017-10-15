@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bahadir Kursad Agören 
-tagline: This is my newly created portfolio
+tagline: Software Engineer
 ---
 {% include JB/setup %}
 
