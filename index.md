@@ -6,8 +6,6 @@ tagline: Software Engineer
 {% include JB/setup %}
 
 
-Read [My Blog Spot](http://publicabstract.blogspot.se)
-
 <img style="float: right" border="5" src="/assets/foto.jpg" />
 
 
@@ -19,9 +17,9 @@ exchange student, after I decided to continue my studies here. I got 2 bachelor 
 
 
 ## Work Experience
-
-+ June 2015 - Ongoing, Ericsson Göteborg, Consultant
-+ June 2015 - Ongoing, Alten AB, Softare Engineer
++ 2018 April - Ongoing, Wireless Car, Softare Engineer
++ June 2015 -  Ericsson Göteborg, Consultant
++ June 2015 -  Ongoing, Alten AB, Softare Engineer
 + March 2015 - June 2015, Ericsson Kista, Software Engineer
 
 
@@ -48,10 +46,11 @@ __Operating Systems:__ Linux, UNIX, CentOS, MS-DOS, Windows.
 > + Jenkins Continuous Delivery, Continuous Integration, GoCD, Apcera, Git, Gerrit
 > + Experienced testing skills, SOAP UI, Automated tests, 
 > + Java Swing, Applet, JavaFX, Scene Builder
-> + MySQL, SQL, MongoDB, Cassandra, Redis, JPA, Hibernate, EclipseLink, Apache POI.
+> + MySQL, SQL, MongoDB, Cassandra, Redis, JPA, Hibernate, EclipseLink, Apache POI
 > + Image Processing with OpenCV
 > + Android Mobile Application Development
 > + Socket Programming, Good knowledge of Network Programming
+> + AWS technologies, SQS, SNS, DynamoDB, Lambdas, Cloud Formation etc.  
 
 <div>
   
