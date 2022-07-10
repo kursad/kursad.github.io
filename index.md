@@ -21,29 +21,29 @@ In 2020, I created <a href="https://www.netologyab.se">Netology AB</a>.
 + 2020 April - Netology AB, Founder
 + 2018 April - Wireless Car, Software Engineer
 + June 2015 -  Ericsson Göteborg, Software Engineer
-+ March 2015 - June 2015, Ericsson Kista, Software Engineer
++ March 2014 - June 2015, Ericsson Kista, Software Engineer
 
 
 ## Education
 
 + Ongoing Master Program, Software Technology, Linnaeus University, Sweden
-+ August 2015 Software Technology, Linnaeus University, Sweden
++ August 2014 Software Technology, Linnaeus University, Sweden
 + June 2013 Computer and Information Systems, Black Sea Technical University, Turkey
-+ June 2009 Information Systems Engineering Atilim University, Turkey (Uncompleted)
++ June 2009 Information Systems Engineering Atilim University, Turkey
   
 
 ## Key Skills
 
-__Programming:__ C, C++, Java, C#, ASP.NET MVC4, JavaScript, Ruby on Rails, Python
+__Programming:__ C, C++, Java, JavaScript, Python
 
 __Operating Systems:__ Linux, UNIX, CentOS, MS-DOS, Windows.
 
-> + Full stack web development, experienced in Web 2,0 Web services, Maven, Spring, J2EE, Vaadin, JSF,  JSP, React, Angular, Prime Faces, Ajax, RSS.
+> + Full stack web development, experienced in Web 2,0 Web services, Maven, Spring, J2EE, Vaadin, JSF,  JSP, React, Angular, Prime Faces, Ajax.
 > + Agile programming methods, Scrum experience, Test Driven Development
-> + Web application Security, Identity Management, OpenId Connect, Oauth2.0, SSO, MFA
+> + Expertise with web application Security, IAM, Identity Federation, OpenId Connect, Oauth2.0, SSO, MFA
 > + Automation with Ansible
-> + Jenkins Continuous Delivery, Continuous Integration, GoCD, Git, Gerrit
-> + Experienced testing skills, SOAP UI, Automated tests, Cucumber
+> + Jenkins, Continuous Delivery, Continuous Integration, GoCD, Git, Gerrit
+> + Experienced testing skills, SOAP UI, Automated tests, Cucumber, Integration tests
 > + Java Swing, Applet, JavaFX, Scene Builder
 > + MySQL, SQL, MongoDB, DynamoDB, Cassandra, Redis, JPA, Hibernate, EclipseLink, Apache POI
 > + Image Processing with OpenCV
