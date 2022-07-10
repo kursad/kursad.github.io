@@ -18,18 +18,18 @@ In 2020, I created <a href="https://www.netologyab.se">Netology AB</a>.
 
 
 ## Work Experience
-+ 2020 April - Netology AB, Founder
-+ 2018 April - Wireless Car, Software Engineer
-+ June 2015 -  Ericsson Göteborg, Software Engineer
-+ March 2014 - June 2015, Ericsson Kista, Software Engineer
++ 2020 - Ongoing, Netology AB, Founder
++ 2018 - Ongoing, April Wireless Car, Software Engineer
+  2014 - 2018,  Ericsson Göteborg, Software Engineer
++ 2013 - 2014, Ericsson Kista, Software Engineer
 
 
 ## Education
 
-+ Ongoing Master Program, Software Technology, Linnaeus University, Sweden
-+ August 2014 Software Technology, Linnaeus University, Sweden
-+ June 2013 Computer and Information Systems, Black Sea Technical University, Turkey
-+ June 2009 Information Systems Engineering Atilim University, Turkey
++ Master of Science, Software Technology, Linnaeus University, Sweden
++ 2014 Software Technology, Linnaeus University, Sweden
++ 2013 Computer and Information Systems, Black Sea Technical University, Turkey
++ 2009 Information Systems Engineering Atilim University, Turkey
   
 
 ## Key Skills
@@ -49,6 +49,7 @@ __Operating Systems:__ Linux, UNIX, CentOS, MS-DOS, Windows.
 > + Image Processing with OpenCV
 > + Android Mobile Application Development
 > + Socket Programming, Good knowledge of Network Programming
+> + Certificate Management, PKI Engineering
 > + Expert with AWS's services, SQS, SNS, DynamoDB, Lambda, Cloud Formation etc.  
 
 <div>
