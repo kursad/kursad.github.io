@@ -20,7 +20,7 @@ In 2020, I created <a href="https://www.netologyab.se">Netology AB</a>.
 ## Work Experience
 + 2020 - Ongoing, Netology AB, Founder
 + 2018 - Ongoing, April Wireless Car, Software Engineer
-  2014 - 2018,  Ericsson Göteborg, Software Engineer
++ 2014 - 2018,  Ericsson Göteborg, Software Engineer
 + 2013 - 2014, Ericsson Kista, Software Engineer
 
 
